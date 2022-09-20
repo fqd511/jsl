@@ -1,0 +1,13 @@
+{
+  "name": "jsl",
+  "scripts": {
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:serve": "vitepress serve docs"
+  },
+  "devDependencies": {
+    "vitepress": "^1.0.0-alpha.15",
+    "vue": "^3.2.39",
+    "now": "^21.0.1"
+  }
+}
