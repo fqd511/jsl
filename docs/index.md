@@ -3,8 +3,8 @@ layout: home
 
 hero:
   name: 三谷玩偶工作室
-  text: 为人民服务，让客户满意
-  tagline: 行业领先的文化科技缔造者
+  text: 人民需要什么玩偶，我们就造什么玩偶
+  tagline: 行业领先的玩偶文化科技缔造者
 features:
   - icon: ⚡️
     title: 高效率
