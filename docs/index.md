@@ -2,7 +2,7 @@
 layout: home
 
 hero:
-  name: 三谷玩偶工作室
+  name: 三谷玩偶
   text: 人民需要什么玩偶，我们就造什么玩偶
   tagline: 行业领先的玩偶文化科技缔造者
 features:
